@@ -3,7 +3,7 @@
 int readPin=A2;
 int readVal;
 float V2;
-int shortDelay=100;
+int shortDelay(100);
 int redLedPin=9;
 
 void setup() {
